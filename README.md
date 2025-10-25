@@ -12,7 +12,7 @@ Praktikum Pemrograman Jaringan - Fatahul Fahmi
 ---
 
 
-## 📫 Kontak Saya
+##  Kontak Saya
 | Platform | Informasi |
 |-----------|------------|
 | ✉️ Email | [fatahulfahmi1234@gmail.com](mailto:fatahulfahmi1234@gmail.com) |
@@ -22,15 +22,15 @@ Praktikum Pemrograman Jaringan - Fatahul Fahmi
 
 ---
 
-### 🧾 Jobsheet 1 – Pengantar Node.js 
+###  Jobsheet 1 – Pengantar Node.js 
 
-#### 📘 Deskripsi Singkat
+####  Deskripsi Singkat
 Jobsheet ini memperkenalkan dasar **pemrograman berbasis jaringan** dengan menggunakan **Node.js**, sebuah lingkungan runtime JavaScript yang memungkinkan eksekusi kode di sisi server.  
 Fokus utama jobsheet ini adalah memahami konsep **komunikasi client–server**, mengenal arsitektur jaringan modern, dan membuat proyek Node.js sederhana.
 
 ---
 
-#### 🎯 Tujuan Pembelajaran
+####  Tujuan Pembelajaran
 - Memahami konsep komunikasi antara **client dan server** dalam jaringan komputer.  
 - Mengenal lingkungan kerja **Node.js** dan prinsip **event-driven & non-blocking I/O**.  
 - Menjelaskan bagaimana Node.js dapat digunakan untuk membangun **aplikasi web dan jaringan yang responsif**.  
@@ -38,7 +38,7 @@ Fokus utama jobsheet ini adalah memahami konsep **komunikasi client–server**, 
 
 ---
 
-#### ⚙️ Langkah-Langkah Praktikum
+####  Langkah-Langkah Praktikum
 
 1. **Instalasi Tools**
    - Unduh dan pasang **Visual Studio Code** sebagai text editor utama.  
@@ -82,7 +82,7 @@ Fokus utama jobsheet ini adalah memahami konsep **komunikasi client–server**, 
 
 ---
 
-#### 🧠 Konsep yang Dipelajari
+####  Konsep yang Dipelajari
 - **Client–Server Architecture:** Dasar interaksi dua arah antara klien dan peladen.  
 - **Protokol Jaringan:** Aturan komunikasi data seperti HTTP dan TCP/IP.  
 - **Socket Programming:** Penghubung antara aplikasi untuk saling bertukar data melalui jaringan.  
@@ -91,7 +91,7 @@ Fokus utama jobsheet ini adalah memahami konsep **komunikasi client–server**, 
 
 ---
 
-#### 💡 Tugas
+####  Tugas
 > Jelaskan perbedaan antara **JavaScript Engine (V8)** dengan **Node.js**.
 
 **Penjelasan singkat:**  
