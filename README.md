@@ -1,7 +1,7 @@
 # 23343005_Praktikum-Pemrograman-Jaringan
 Praktikum Pemrograman Jaringan - Fatahul Fahmi
 
-<h1 align="center">👨‍💻 Fatahul Fahmi - 23343005</h1>
+<h1 align="center">Fatahul Fahmi - 23343005</h1>
 
 <p align="center">
   <a href="mailto:fatahulfahmi1234@gmail.com"><img src="https://img.shields.io/badge/📧_Email-fatahulfahmi1234%40gmail.com-blue?style=for-the-badge"></a>
@@ -22,7 +22,7 @@ Praktikum Pemrograman Jaringan - Fatahul Fahmi
 
 ---
 
-### 🧾 Jobsheet 2 – Pengantar Node.js (Pemrograman Berbasis Jaringan)
+### 🧾 Jobsheet 1 – Pengantar Node.js 
 
 #### 📘 Deskripsi Singkat
 Jobsheet ini memperkenalkan dasar **pemrograman berbasis jaringan** dengan menggunakan **Node.js**, sebuah lingkungan runtime JavaScript yang memungkinkan eksekusi kode di sisi server.  
